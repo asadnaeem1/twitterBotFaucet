@@ -1,0 +1,28 @@
+{
+  "name": "twitterBotFaucet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadnaeem1/twitterBotFaucet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadnaeem1/twitterBotFaucet/issues"
+  },
+  "homepage": "https://github.com/asadnaeem1/twitterBotFaucet#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twitter": "^1.7.1",
+    "web3": "^1.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
